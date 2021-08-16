@@ -10,4 +10,3 @@
     - Saturday
 
 
-[![Build status
