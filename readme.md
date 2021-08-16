@@ -7,7 +7,7 @@
     - wednesday
     - Thurday
     - friday **wikendi***
-    - Saturdaysss
+    - Saturdayssssss
 
 
 [![Build status
